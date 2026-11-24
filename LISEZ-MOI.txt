@@ -1,0 +1,19 @@
+LE COIN PRATIQUE — 3 nouveaux articles
+
+Fichiers :
+- organiser-ses-devoirs.html
+- reviser-avant-un-controle.html
+- astuces-concentration-devoirs.html
+
+Publication :
+1. Décompressez cette archive.
+2. Dans le dépôt GitHub le-coin-pratique, choisissez Add file > Upload files.
+3. Téléversez les trois fichiers à la racine du dépôt (au même niveau que index.html).
+4. Cliquez sur Commit changes.
+
+Adresses après publication :
+https://le-coin-pratique.github.io/le-coin-pratique/organiser-ses-devoirs.html
+https://le-coin-pratique.github.io/le-coin-pratique/reviser-avant-un-controle.html
+https://le-coin-pratique.github.io/le-coin-pratique/astuces-concentration-devoirs.html
+
+Pour les faire apparaître sur la page d'accueil, il faudra aussi ajouter des liens dans index.html.
